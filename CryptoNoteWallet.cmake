@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "axumacoin")
-set(CN_CURRENCY_DISPLAY_NAME "azumacoin")
-set(CN_CURRENCY_TICKER "az")
+set(CN_PROJECT_NAME "azumacoin")
+set(CN_CURRENCY_DISPLAY_NAME "AzumaCoin")
+set(CN_CURRENCY_TICKER "AZU")
